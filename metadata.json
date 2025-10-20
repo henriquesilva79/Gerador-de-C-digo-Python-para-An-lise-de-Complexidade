@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Código Python para Análise de Complexidade",
+  "description": "Uma aplicação web para gerar exemplos de código Python, testes e documentação para diferentes complexidades de algoritmos, auxiliando em atividades acadêmicas.",
+  "requestFramePermissions": []
+}
